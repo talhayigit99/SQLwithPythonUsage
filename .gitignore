@@ -1,0 +1,9 @@
+# PyCharm project settings
+.idea/
+
+# Virtual environments
+.venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
